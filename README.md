@@ -31,9 +31,8 @@
 1.  **کلون کردن (دانلود) پروژه از گیت‌هاب:**
     ابتدا ترمینال (در لینوکس و macOS) یا Command Prompt/PowerShell (در ویندوز) را باز کنید و دستور زیر را برای دانلود کد پروژه اجرا نمایید:
     ```bash
-    git clone [آدرس URL مخزن گیت‌هاب شما در اینجا قرار گیرد]
+    git clone [https://github.com/BigPyth0n/domain-checker-streamlit.git](https://github.com/BigPyth0n/domain-checker-streamlit.git)
     ```
-    *مثال: `git clone https://github.com/YourUsername/domain-checker-streamlit.git`*
 
 2.  **ورود به پوشه پروژه:**
     پس از اتمام دانلود، با دستور `cd` وارد پوشه‌ای شوید که پروژه در آن کلون شده است:
@@ -62,7 +61,7 @@
     ```bash
     pip install -r requirements.txt
     ```
-    این دستور ممکن است بسته به سرعت اینترنت شما چند دقیقه طول بکشد.
+    *(توجه: برای اینکه این مرحله به درستی کار کند، باید فایل `requirements.txt` را نیز به مخزن گیت‌هاب خود اضافه کرده باشید. در صورت عدم وجود این فایل، این دستور با خطا مواجه خواهد شد.)*
 
 ## ▶️ اجرای برنامه
 
