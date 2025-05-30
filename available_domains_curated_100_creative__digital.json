@@ -1,0 +1,382 @@
+[
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "AISyn.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "AILog.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "AICor.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "AIMax.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "AINex.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "AIViz.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "AIFlx.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "DotAI.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "SynAI.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "VisAI.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "NeurX.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "Qanta.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "Zetta.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "TrdAI.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "TrdEx.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "TrdGo.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "TrdBot.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "FinAI.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "FinGo.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "FinIO.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "StkAI.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "StkGo.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "FXBot.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "FXAI.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "KoinX.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "KoinAI.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "CashX.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "GainX.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "YldAI.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "CapFX.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "BotEx.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "BotGo.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "BotDev.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "BotOp.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "RoboAI.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "AutoX.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "AutoP.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "DroidX.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "MechX.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "BotUp.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "QBot.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "ZenBot.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "BotKit.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "BotLab.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "BotRun.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "UnitX.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "CodAI.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "CodGo.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "DevEx.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "APIEx.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "APIGo.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "GitGo.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "PyGo.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "PyAI.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "JSGo.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "GoDev.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "SrcAI.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "OpsAI.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "OpsGo.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.054001",
+        "domain": "OpsEx.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.063011",
+        "domain": "OpsUp.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.063064",
+        "domain": "CiCoX.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.063064",
+        "domain": "CiGo.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.063064",
+        "domain": "PipeX.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.063064",
+        "domain": "DockX.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.063064",
+        "domain": "KubeX.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.063064",
+        "domain": "GitOps.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.063064",
+        "domain": "AutoOps.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.063064",
+        "domain": "SkyOps.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.063064",
+        "domain": "ServX.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.063064",
+        "domain": "NodeX.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.063064",
+        "domain": "MeshX.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.063064",
+        "domain": "StackX.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.063064",
+        "domain": "RunOps.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.063064",
+        "domain": "ZenOps.digital",
+        "price": "3014550"
+    },
+    {
+        "checked_at": "2025-05-30T17:16:12.063064",
+        "domain": "DevOpsX.digital",
+        "price": "3014550"
+    }
+]
