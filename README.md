@@ -31,7 +31,7 @@
 1.  **کلون کردن (دانلود) پروژه از گیت‌هاب:**
     ابتدا ترمینال (در لینوکس و macOS) یا Command Prompt/PowerShell (در ویندوز) را باز کنید و دستور زیر را برای دانلود کد پروژه اجرا نمایید:
     ```bash
-    git clone [https://github.com/BigPyth0n/domain-checker-streamlit.git](https://github.com/BigPyth0n/domain-checker-streamlit.git)
+    git clone https://github.com/BigPyth0n/domain-checker-streamlit.git
     ```
 
 2.  **ورود به پوشه پروژه:**
